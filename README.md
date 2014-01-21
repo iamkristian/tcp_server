@@ -1,3 +1,3 @@
 # TcpServer
 
-** TODO: Add description **
+A basic tcp server built in Elixir.
